@@ -525,8 +525,10 @@ img {
     margin-bottom: 20px;
 }
 
-.footer-soc {
-    margin-left: auto;
+.footer-completely {
+    display: flex;
+    align-items: baseline;
+    justify-content: flex-start;
 }
 
 .footer-links {
