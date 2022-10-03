@@ -427,6 +427,11 @@ img {
     fill: var(--header-color)
 }
 
+.section-5-link:hover,
+.section-5-link:hover {
+    border-color: var(--header-color);
+}
+
 .section-5-link {
     display: flex;
     justify-content: center;
